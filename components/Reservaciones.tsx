@@ -9,7 +9,7 @@ const items = [
     title: "Pádel",
     desc: "3 canchas al aire libre. Consulta disponibilidad y reserva en tiempo real.",
     platform: "Playtomic",
-    href: "https://www.playtomic.io",
+    href: "https://playtomic.com/",
     external: true,
     label: "Reservar en Playtomic",
   },
