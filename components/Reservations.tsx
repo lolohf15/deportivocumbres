@@ -25,7 +25,7 @@ const tabContent = {
     ],
     cta: {
       label: "Reservar en Playtomic",
-      href: "https://www.playtomic.io",
+      href: "https://playtomic.com/clubs/deportivo-cumbres-ac",
       external: true,
       color: "bg-[#00D4AA] hover:bg-[#00BF99]",
       textColor: "text-white",
