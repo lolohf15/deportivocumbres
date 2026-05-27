@@ -52,7 +52,7 @@ const tabContent = {
     ],
     cta: {
       label: "Reservar en Court Reserve",
-      href: "https://www.courtreserve.com",
+      href: "https://courtreserve.com/players/",
       external: true,
       color: "bg-[#1a56db] hover:bg-[#1645b8]",
       textColor: "text-white",
